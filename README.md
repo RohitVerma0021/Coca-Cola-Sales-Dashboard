@@ -61,12 +61,11 @@ You can use this Power BI dashboard as a reference or starting point for your da
 
 If you have suggestions for improvements or want to contribute to this project, please fork the repository and create a pull request. We welcome your feedback and collaboration.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 ---
 
 Thank you for using our Coca-Cola Sales Analysis Power BI dashboard. We hope you find it valuable for your data analysis needs. If you have any questions or need assistance, please don't hesitate to reach out.
 
 **Happy analyzing!** 📊📈📉
+
+[Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)
