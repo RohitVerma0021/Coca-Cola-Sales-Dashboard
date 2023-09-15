@@ -1,7 +1,8 @@
-# Power BI Dashboard - Coca-Cola Sales Analysis
+# Power BI Dashboard - Coca-Cola Sales Analysis 
 
 <img src="https://th.bing.com/th/id/OIP.-1EcxIPmskk6iUzVCeWAuQHaHa?pid=ImgDet&rs=1" alt="Power BI Logo" width="100">
 
+![Coca-Cola](https://img.shields.io/badge/Coca--Cola-Sales%20Analysis-red)
 ## Overview
 
 This Power BI dashboard provides a comprehensive analysis of Coca-Cola sales data. We've created this dashboard from scratch, leveraging a custom dataset, to gain valuable insights into various aspects of the business, including sales, profit margins, pricing, regional performance, and more. This README file will guide you through the dashboard's features and how to use it effectively.
