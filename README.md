@@ -59,7 +59,7 @@ You can use this Power BI dashboard as a reference or starting point for your da
 
 ## Contributing
 
-If you have suggestions for improvements or want to contribute to this project, please fork the repository and create a pull request. We welcome your feedback and collaboration.
+If you have suggestions for improvements or want to contribute to this project, please fork the repository and create a pull request. We welcome your feedback and collaboration..
 
 
 ---
